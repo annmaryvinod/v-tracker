@@ -1,2 +1,2 @@
-# VTracker
-vaccination tracker
+# vtracker
+vaccination tracking system
